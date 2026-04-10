@@ -1,4 +1,3 @@
-// fadelsm
 # @devadevkiyuru/mc-headless
 
 <div align="center">
